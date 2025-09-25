@@ -74,7 +74,7 @@ This project utilizes various regression techniques to model and predict house p
 
 ## Author
 
-Developed by [Akeza Saloi].
+Developed by Akeza Saloi.
 
 ---
 
