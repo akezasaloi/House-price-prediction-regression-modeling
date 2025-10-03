@@ -36,7 +36,7 @@ This project utilizes various regression techniques to model and predict house p
 - **Best Model Selection:**
   - **XGBoost** was chosen as the final estimator:
     - Achieved **MSE ≈ 0.127** and **R² ≈ 0.892** on the validation set.
-    - Reduced prediction error by ~18% compared to baseline models.
+    - Reduced prediction error by ~12% compared to baseline models.
     - Enhanced prediction accuracy for unseen houses.
 
 ## Results
